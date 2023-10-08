@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a7d46ad-2813-47dc-b8fe-402c57e9b588" name="Changes" comment="added access modifiers">
+    <list default="true" id="4a7d46ad-2813-47dc-b8fe-402c57e9b588" name="Changes" comment="added inheritance package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696657706824</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added inheritance package">
+      <created>1696738160912</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696738160912</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -99,6 +107,7 @@
     <MESSAGE value="about static members" />
     <MESSAGE value="added non-static members" />
     <MESSAGE value="added access modifiers" />
-    <option name="LAST_COMMIT_MESSAGE" value="added access modifiers" />
+    <MESSAGE value="added inheritance package" />
+    <option name="LAST_COMMIT_MESSAGE" value="added inheritance package" />
   </component>
 </project>
