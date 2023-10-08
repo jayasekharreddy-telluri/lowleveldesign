@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a7d46ad-2813-47dc-b8fe-402c57e9b588" name="Changes" comment="added non-static members">
+    <list default="true" id="4a7d46ad-2813-47dc-b8fe-402c57e9b588" name="Changes" comment="added access modifiers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2WNqIYo6pTjYWIxVcagYXapHX0K" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -82,13 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696591438382</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added access modifiers">
+      <created>1696657706824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696657706824</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes" />
     <MESSAGE value="about static members" />
     <MESSAGE value="added non-static members" />
-    <option name="LAST_COMMIT_MESSAGE" value="added non-static members" />
+    <MESSAGE value="added access modifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="added access modifiers" />
   </component>
 </project>
