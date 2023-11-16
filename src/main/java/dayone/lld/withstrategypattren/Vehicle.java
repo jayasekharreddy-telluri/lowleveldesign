@@ -18,8 +18,7 @@ public class Vehicle {
     }
 
 
-
-    public void drive(){
+    public void drive() {
         driveStrategy.drive();
     }
 
@@ -28,7 +27,6 @@ public class Vehicle {
         Vehicle vs = new SportsVehicle();
 
         Vehicle vp = new PassenegerVehicle();
-
 
 
         vs.drive();

@@ -1,10 +1,13 @@
 package dayone.lld.withstrategypattren;
 
+import dayone.lld.withstrategypattren.strategy.SportsDriveStrategy;
+
 public class SportsVehicle extends Vehicle {
 
-    public void drive(){
+    public SportsVehicle(){
 
-        System.out.println("special capability");
+        super(new SportsDriveStrategy());
+
     }
 
 }
